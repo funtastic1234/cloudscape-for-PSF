@@ -1,4 +1,4 @@
-# Workshop: Build a cloud experience with Cloudscape, an open-source design system
+# This repo builds the needed code to develop with Cloudscape, an open-source design system by AWS 
 
 In this workshop, we will go from an empty React TypeScript project to building a basic application using Cloudscape components in three steps:
 
